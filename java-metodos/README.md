@@ -5,3 +5,5 @@ Elaboração de uma classe que simula o funcionamento de uma SmarTV com as segui
 1) Ligar e desligar
 2) Aumentar e diminuir volume
 3) Mudar canais de 1 em 1 ou escolher um canal especício
+
+Criada também uma classe denominada Usuário que testa os métodos implementados para a classe da SmarTV
